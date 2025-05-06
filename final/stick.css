@@ -1,3 +1,13 @@
+.fight-stick .quadrant {
+    position: absolute;
+    font-family: "Press Start 2P";
+    font-size: 36px;
+    font-weight: normal;
+    top: 20px;
+    left: 236px;
+    color: SeaGreen;
+}
+
 .fight-stick .p0:after {
     content: "Mort";
 }
