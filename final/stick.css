@@ -85,11 +85,11 @@
     font-weight: normal;
     top: 20px;
     left: 236px;
-    color: white;
+    color: black;
 }
 
 .fight-stick .p0:after {
-    content: "Player 2";
+    content: "Player 1";
 }
 
 .fight-stick .p1:after {
