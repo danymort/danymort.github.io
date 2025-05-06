@@ -1,11 +1,11 @@
 .controller.fight-stick {
-    background: url(base.svg) center no-repeat;
+    background: url(stick-assets/base.svg) center no-repeat;
     height: 534px;
     width: 1122px;
 }
 
 .fight-stick.disconnected {
-    background: url(disconnected.svg) no-repeat;
+    background: url(stick-assets/disconnected.svg) no-repeat;
 }
 
 .fight-stick.disconnected div {
@@ -184,7 +184,7 @@
     height: 221px;
     top: 199px;
     left: 192px;
-    background: url(stick.svg)
+    background: url(stick-assets/stick.svg)
 }
 
 .fight-stick .fstick.up {
